@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Select_Locality">
+        <item>Deccan</item>
+        <item>Kothrud</item>
+        <item>Katraj</item>
+    </string-array>
+
+
+
+
+
+
+
+</resources>

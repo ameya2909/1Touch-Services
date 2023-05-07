@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "17880666350",
+    "project_id": "sastaurbanclap",
+    "storage_bucket": "sastaurbanclap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17880666350:android:ce58b63e0bb7b0d44623ff",
+        "android_client_info": {
+          "package_name": "com.example.doorwayexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17880666350-4ksbe55bl0jfhdso83nsfn9vvsfjvboq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1N-jYyJpFXEDmwKJ4wN5ALZ6Ta5idvqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17880666350-4ksbe55bl0jfhdso83nsfn9vvsfjvboq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17880666350:android:d8aba63b01d0ca614623ff",
+        "android_client_info": {
+          "package_name": "com.example.sastaurbanclap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17880666350-4ksbe55bl0jfhdso83nsfn9vvsfjvboq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1N-jYyJpFXEDmwKJ4wN5ALZ6Ta5idvqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17880666350-4ksbe55bl0jfhdso83nsfn9vvsfjvboq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

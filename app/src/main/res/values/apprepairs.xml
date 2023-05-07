@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Select_Appliance">
+        <item>Washing Machine</item>
+        <item>Refridgerator</item>
+        <item>Television</item>
+    </string-array>
+
+</resources>
